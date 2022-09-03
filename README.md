@@ -1,16 +1,7 @@
-# testwebsite
+# Final Website Template 
 
-A new Flutter project.
+A free fully responsive website template.  
+You are free to use, modify and resell it.  
+It uses the Flutter Navigator 2.0 logic and the responsive_framework package.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ https://pub.dev/packages/responsive_framework
